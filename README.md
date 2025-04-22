@@ -1,64 +1,80 @@
-# 👋 Hi there, I'm Shivam Shukla
+<h1 align="center">Hi there, I'm Shivam Shukla 👋</h1>
 
-🎯 **Aspiring Data Scientist and Software Development Engineer (SDE)**  
-💡 Passionate about applying **data-driven insights** and building **intelligent systems** to solve real-world problems.
+<img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm1lYmFrdTV6M21lb2N0cWxxazIzbzg2cTB3NTRtOWhrY3cxa3d0ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif">
 
----
-
-## 🔍 About Me
-
-I'm a CS engineering student with a strong foundation in:
-- 💻 **Java**, **Python**, and **C++** for building robust, high-performance applications
-- 🤖 **Machine Learning** for uncovering actionable insights from data
-- 📊 Analytical thinking and structured problem-solving
-
-I thrive on **continuous learning** and **collaboration** to deliver impactful solutions — whether it’s through intelligent automation or clean, optimized code.
+<h3 align="center">Aspiring Data Scientist | Future SDE 🚀</h3>
 
 ---
 
-## 🚀 What I'm Currently Working On
-
-- 🔁 **#gfg160 Daily DSA Challenge** – sharpening my DSA skills daily  
-- 🧠 Advanced ML topics: model evaluation, hyperparameter tuning, and deployment  
-
----
-
-## 🧠 Core Strengths
-
-- ⚙️ **ML Enthusiast** – Skilled in designing, training & evaluating ML models  
-- 🧩 **Efficient Problem Solver** – Breaks down challenges into optimized, executable steps  
-- 💻 **Programming Proficiency** – Java, Python, C++ for scalable, high-performance apps  
-- 🤝 **Team Player** – Values learning, mentoring, and cross-functional collaboration  
+<p align="left">
+🔭 I’m currently focused on DSA, ML, and core CS fundamentals<br><br>
+🌱 I’m exploring advanced ML, model tuning, deployment & cloud<br><br>
+💬 Ask me about machine learning, data analytics, and coding interviews<br><br>
+📚 Preparing for GATE CSE + internship interviews  
+</p>
 
 ---
 
-## 🧰 Tech Stack
+<h2 align="left">🔗 Connect with me:</h2>
 
-- **Languages**: Java, Python, C++, SQL  
-- **ML/DS**: Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn  
-- **Tools**: Git, VSCode, Jupyter, AWS  
-- **Domains**: DSA, OS, DBMS, CN, OOP, ML
-
----
-
-## 📂 Projects
-
-- 🧠 **Traffic Management using YOLO (DL + CV)**  
-- ☁️ **Handmade Crafts Marketplace (AWS + Web)**  
-- ⚙️ **IPL Dashboard using Tableaue**
-
----
-
-## 📫 Connect with Me
-
-- 💼 [LinkedIn](www.linkedin.com/in/shivam-shukla-a462b3223)
-- 🐦 [X / Twitter](https://x.com/yourhandle)
-- 📧 shivamshuklass661@gmail.com
+<div align="left">
+  <a href="https://www.linkedin.com/in/shivam-shukla-a462b3223" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="48" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:shivamshuklass661@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="48" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://x.com/yourhandle" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="48" height="40" alt="twitter logo"  />
+  </a>
+</div>
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact)
+<h2 align="left">💻 Languages and Tools:</h2>
+
+<h3>Programming Languages</h3>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" />
+</div>
+
+<h3>Data Science & ML</h3>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" height="30" />
+</div>
+
+<h3>Tools & Platforms</h3>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" height="30" />
+</div>
 
 ---
-🌱 *Always open to learning, collaborating, and building impactful tech solutions!*
+
+<h2>📂 Projects</h2>
+
+- 🧠 **YOLO-based Traffic Management System** – Computer Vision + Deep Learning  
+- ☁️ **Handmade Crafts Marketplace** – Built using AWS Cloud tools  
+- 🧪 **Mushroom Classification** – Using scikit-learn & UCI dataset  
+- 📊 **IPL Dashboard** – Visualized in Tableau
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=dracula" height="150" />
+  <img src="https://streak-stats.demolab.com?user=your-github-username&theme=dracula&hide_border=false" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=dracula" height="150" />
+</div>
+
+---
+
+🌟 *Fuelled by data, driven by curiosity, and always ready to learn.*
