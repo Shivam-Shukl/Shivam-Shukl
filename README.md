@@ -10,7 +10,7 @@
 🔭 I’m currently focused on DSA, ML, and core CS fundamentals<br><br>
 🌱 I’m exploring advanced ML, model tuning, deployment & cloud<br><br>
 💬 Ask me about machine learning, data analytics, and coding interviews<br><br>
-📚 Preparing for GATE CSE + internship interviews  
+
 </p>
 
 ---
