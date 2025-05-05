@@ -73,6 +73,12 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Shivam-Shukl&show_icons=true&theme=dracula" height="150" />
   <img src="https://streak-stats.demolab.com?user=Shivam-Shukl&theme=dracula&hide_border=false" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam-Shukl&layout=compact&theme=dracula" height="150" />
+  <!-- Exclude a repository -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam-Shukl&layout=compact&theme=dracula&exclude_repo=repo1,repo2" />
+
+<!-- Include only specific repositories -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam-Shukl&layout=compact&theme=dracula&langs_count=5" />
+
 </div>
 
 ---
