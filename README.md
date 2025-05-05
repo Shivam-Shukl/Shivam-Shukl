@@ -70,9 +70,9 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=dracula" height="150" />
-  <img src="https://streak-stats.demolab.com?user=your-github-username&theme=dracula&hide_border=false" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=dracula" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shivam-Shukl&show_icons=true&theme=dracula" height="150" />
+  <img src="https://streak-stats.demolab.com?user=Shivam-Shukl&theme=dracula&hide_border=false" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam-Shukl&layout=compact&theme=dracula" height="150" />
 </div>
 
 ---
