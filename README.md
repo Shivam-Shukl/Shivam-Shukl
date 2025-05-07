@@ -74,11 +74,11 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shivam-Shukl&show_icons=true&theme=dracula" height="150" />
-  <img src="https://streak-stats.demolab.com?user=Shivam-Shukl&theme=dracula&hide_border=false" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam-Shukl&layout=compact&theme=dracula" height="150" />
-  <!-- Exclude a repository -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Shivam-Shukl&show_icons=true&theme=dracula" height="180" />
+  <img src="https://streak-stats.demolab.com?user=Shivam-Shukl&theme=dracula&hide_border=false" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam-Shukl&layout=compact&theme=dracula" height="180" />
 </div>
+
 
 ---
 
