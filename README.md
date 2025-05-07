@@ -1,96 +1,76 @@
-<h1 align="center">Hi there, I'm Shivam Shukla 👋</h1>
+<h1 align="center">Hey there 👋, I'm a Computer Science Engineering Student!</h1>
 
-<img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm1lYmFrdTV6M21lb2N0cWxxazIzbzg2cTB3NTRtOWhrY3cxa3d0ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif">
-
-<h3 align="center">Aspiring Machine Learning Intern | Future SDE | Passionate CS Engineer 🚀</h3>
-
----
-
-🎯 **About Me**  
-- 👨‍🎓 Final-year CS undergrad | Engineering with curiosity & purpose  
-- 📌 Currently deep diving into:  
-  ▪️ Advanced DSA (GfG160 Challenge #gfg160 #geekstreak2025)  
-  ▪️ ML model optimization, advanced DP, graphs  
-  ▪️ OS, CN, DBMS & GATE prep  
-- 🔬 Exploring: Cloud (AWS), ML deployment, GitHub enhancement  
-- 💬 Always excited to talk about: AI, algorithms, career growth, tech projects  
-- 📈 Building a portfolio that blends ML + SDE skills  
-- 🏆 Goal: Top 1% in tech by 2025, one commit at a time
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0AB6F9&center=true&vCenter=true&width=600&lines=Engineering+Student+(CSE);SDE+%2B+ML+Intern+Preparation;Loves+DSA%2C+Math+%26+New+Tech;GfG160+%23geekstreak2025+Participant" alt="Typing animation" />
+</p>
 
 ---
 
-<h2 align="left">🔗 Connect with me</h2>
+### 🚀 About Me
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/shivam-shukla-a462b3223" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="48" height="40" alt="linkedin" />
-  </a>
-  <a href="mailto:shivamshuklass661@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="48" height="40" alt="gmail" />
-  </a>
-  <a href="https://x.com/yourhandle" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="48" height="40" alt="twitter" />
-  </a>
-  <a href="https://www.instagram.com/sri_bhanu_shivam" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="48" height="40" alt="instagram" />
-  </a>
-</div>
+- 🎓 I'm a **Computer Science Engineering** student passionate about **technology, problem-solving, and building projects**
+- 📈 Currently doing the **GFG160 Daily DSA Challenge** — aiming for **80+ days streak** to earn the exclusive T-shirt 🏆  
+- 💻 Preparing for **SDE and ML intern roles** by **May 2025**
+- 🧠 Deep-diving into **Advanced DSA (DP, Graphs)** and **Machine Learning**  
+- 📝 I post my daily progress on **LinkedIn** and **X** using hashtags **#gfg160** and **#geekstreak2025**
+- 🔄 Learning in public to stay consistent and grow with the community
 
 ---
 
-<h2>🛠️ Languages & Tools</h2>
+### 🔧 Tech Stack
 
-**Languages:**  
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" />
-</div>
-
-**ML & Data Tools:**  
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" height="30" />
-</div>
-
-**Platforms & IDEs:**  
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" height="30" />
-</div>
+- **Languages**: C++, Python, HTML, CSS  
+- **ML Tools**: NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch  
+- **Concepts**: EDA, Feature Engineering, Linear Regression, Deep Learning (YOLO - past project)  
+- **Other Tools**: Git, GitHub, VS Code
 
 ---
 
-<h2>📂 Highlight Projects</h2>
+### 📊 GitHub Stats
 
-- 🧠 **YOLO-based Traffic Management System**  
-  _Object detection for smart city planning using deep learning_
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=your-username&theme=tokyonight" width="48%" />
+</p>
 
-- ☁️ **Handmade Crafts Marketplace (Cloud App)**  
-  _End-to-end platform on AWS with storage, compute, and analytics_
-
-- 🧪 **Mushroom Classification**  
-  _ML classification using the UCI dataset + scikit-learn pipeline_
-
-- 📊 **IPL Dashboard**  
-  _Tableau-based data storytelling for cricket insights_
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" width="48%" />
+</p>
 
 ---
 
-<h2>📊 GitHub Stats</h2>
+### 📚 Current Focus
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shivam-Shukl&show_icons=true&theme=dracula" height="180" />
-  <img src="https://streak-stats.demolab.com?user=Shivam-Shukl&theme=dracula&hide_border=false" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam-Shukl&layout=compact&theme=dracula" height="180" />
-</div>
+- ✅ **SDE Interview Prep** (Advanced DSA, OS, DBMS, CN)
+- ✅ **ML Project Development** (End-to-end projects with TensorFlow/Sklearn)
+- ✅ **GitHub Profile Optimization** (Daily contributions, featured pinned repos)
+- ✅ **GATE + SDE + ML Consolidated Plan** to reach top 1%
 
 ---
 
-🌟 *Fuelled by data, driven by algorithms, and passionate about real-world impact.*
+### 🔗 Connect With Me
+
+<p align="center">
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://x.com/your-twitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
+</p>
+
+---
+
+### 💡 Fun Fact
+
+> I once did a traffic management project using YOLO but didn't fully understand it back then — now I'm mastering the math and ML behind it! 😄
+
+---
+
+### 🔥 Motto
+
+> _"From Above Average to Top 1% — with Discipline, Projects, and Purpose!"_ 🚀
+
+---
+
+### 📎 Inspired By
+
+- [Awesome GitHub README Templates](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+- [GFG Daily Challenges](https://practice.geeksforgeeks.org/)
