@@ -17,7 +17,9 @@
 
 <h2 align="left">🔗 Connect with me:</h2>
 
-<div align="left">
+<h2 align="left">🔗 Connect with me:</h2>
+
+<div align="center">
   <a href="https://www.linkedin.com/in/shivam-shukla-a462b3223" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="48" height="40" alt="linkedin logo"  />
   </a>
@@ -30,7 +32,16 @@
   <a href="https://www.instagram.com/sri_bhanu_shivam" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="48" height="40" alt="instagram logo" />
   </a>
+  <!-- Added LeetCode -->
+  <a href="https://leetcode.com/u/Rockstar_shivam/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="48" height="40" alt="leetcode logo" style="object-fit: contain;"/>
+  </a>
+  <!-- Added GeeksforGeeks -->
+  <a href="https://www.geeksforgeeks.org/user/sri_bhanu_shivam/" target="_blank">
+    <img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200X200.png" width="48" height="40" alt="geeksforgeeks logo" style="object-fit: contain;"/>
+  </a>
 </div>
+
 
 
 ---
