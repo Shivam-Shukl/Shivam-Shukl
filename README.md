@@ -26,7 +26,7 @@
   <a href="mailto:shivamshuklass661@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="48" height="40" alt="gmail logo"  />
   </a>
-  <a href="https://x.com/yourhandle" target="_blank">
+  <a href="https://x.com/sri_bhanu_shiva" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="48" height="40" alt="twitter logo"  />
   </a>
   <a href="https://www.instagram.com/sri_bhanu_shivam" target="_blank">
