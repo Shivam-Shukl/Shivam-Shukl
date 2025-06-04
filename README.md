@@ -21,26 +21,31 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/shivam-shukla-a462b3223" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="48" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="48" height="40" alt="linkedin logo" />
   </a>
   <a href="mailto:shivamshuklass661@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="48" height="40" alt="gmail logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="48" height="40" alt="gmail logo" />
   </a>
   <a href="https://x.com/sri_bhanu_shiva" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="48" height="40" alt="twitter logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="48" height="40" alt="twitter logo" />
   </a>
   <a href="https://www.instagram.com/sri_bhanu_shivam" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="48" height="40" alt="instagram logo" />
   </a>
-  <!-- Added LeetCode -->
+  <!-- LeetCode -->
   <a href="https://leetcode.com/u/Rockstar_shivam/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="48" height="40" alt="leetcode logo" style="object-fit: contain;"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="48" height="40" alt="leetcode logo" style="object-fit: contain;" />
   </a>
-  <!-- Added GeeksforGeeks -->
+  <!-- GeeksforGeeks -->
   <a href="https://www.geeksforgeeks.org/user/sri_bhanu_shivam/" target="_blank">
-    <img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200X200.png" width="48" height="40" alt="geeksforgeeks logo" style="object-fit: contain;"/>
+    <img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200X200.png" width="48" height="40" alt="geeksforgeeks logo" style="object-fit: contain;" />
+  </a>
+  <!-- Kaggle -->
+  <a href="https://www.kaggle.com/rokstarshivam" target="_blank">
+    <img src="https://cdn.iconscout.com/icon/free/png-256/kaggle-3628950-3030004.png" width="48" height="40" alt="kaggle logo" style="object-fit: contain;" />
   </a>
 </div>
+
 
 
 
