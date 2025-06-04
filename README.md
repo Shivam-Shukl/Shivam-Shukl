@@ -40,10 +40,10 @@
   <a href="https://www.geeksforgeeks.org/user/sri_bhanu_shivam/" target="_blank">
     <img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200X200.png" width="48" height="40" alt="geeksforgeeks logo" style="object-fit: contain;" />
   </a>
-  <!-- Kaggle -->
+ <!-- Kaggle -->
   <a href="https://www.kaggle.com/rokstarshivam" target="_blank">
-    <img src="https://cdn.iconscout.com/icon/free/png-256/kaggle-3628950-3030004.png" width="48" height="40" alt="kaggle logo" style="object-fit: contain;" />
-  </a>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.svg" width="48" height="40" alt="kaggle logo" style="object-fit: contain;" />
+</a>
 </div>
 
 
