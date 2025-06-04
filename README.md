@@ -20,31 +20,42 @@
 <h2 align="left">🔗 Connect with me:</h2>
 
 <div align="center">
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/shivam-shukla-a462b3223" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="48" height="40" alt="linkedin logo" />
   </a>
+
+  <!-- Gmail -->
   <a href="mailto:shivamshuklass661@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="48" height="40" alt="gmail logo" />
   </a>
+
+  <!-- Twitter -->
   <a href="https://x.com/sri_bhanu_shiva" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="48" height="40" alt="twitter logo" />
   </a>
+
+  <!-- Instagram -->
   <a href="https://www.instagram.com/sri_bhanu_shivam" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="48" height="40" alt="instagram logo" />
   </a>
+
   <!-- LeetCode -->
   <a href="https://leetcode.com/u/Rockstar_shivam/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="48" height="40" alt="leetcode logo" style="object-fit: contain;" />
   </a>
+
   <!-- GeeksforGeeks -->
   <a href="https://www.geeksforgeeks.org/user/sri_bhanu_shivam/" target="_blank">
     <img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200X200.png" width="48" height="40" alt="geeksforgeeks logo" style="object-fit: contain;" />
   </a>
- <!-- Kaggle -->
+
+  <!-- Kaggle -->
   <a href="https://www.kaggle.com/rokstarshivam" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.svg" width="48" height="40" alt="kaggle logo" style="object-fit: contain;" />
-</a>
+    <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-1024.png" width="48" height="40" alt="kaggle logo" style="object-fit: contain;" />
+  </a>
 </div>
+
 
 
 
