@@ -1,117 +1,66 @@
-<h1 align="center">Hi there, I'm Shivam Shukla 👋</h1>
-
-<img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm1lYmFrdTV6M21lb2N0cWxxazIzbzg2cTB3NTRtOWhrY3cxa3d0ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif">
-
-<h3 align="center">Aspiring Data Scientist | Aspiring SDE 🚀</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Shivam-Shukl&label=Profile%20views&color=0e75b6&style=flat" alt="Shivam Shukla" /> </p>
----
-
-<p align="left">
-🔭 I’m currently focused on DSA, ML, and core CS fundamentals<br><br>
-🌱 I’m exploring advanced ML, model tuning, deployment & cloud<br><br>
-💬 Ask me about machine learning, data analytics, and coding interviews<br><br>
-
+<p align="center">
+  <a href="https://github.com/Shivam-Shukl">
+    <img width="80%" alt="Hello, I'm Shivam. I build ML projects and love tech!" src="https://yourdomain.com/your-header-image.png" />
+  </a>
 </p>
 
----
+<br />
 
-
-
-<h2 align="left">🔗 Connect with me:</h2>
-
-<div align="center">
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/shivam-shukla-a462b3223" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="48" height="40" alt="linkedin logo" />
-  </a>
-
-  <!-- Gmail -->
-  <a href="mailto:shivamshuklass661@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="48" height="40" alt="gmail logo" />
-  </a>
-
-  <!-- Twitter -->
-  <a href="https://x.com/sri_bhanu_shiva" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="48" height="40" alt="twitter logo" />
-  </a>
-
-  <!-- Instagram -->
-  <a href="https://www.instagram.com/sri_bhanu_shivam" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="48" height="40" alt="instagram logo" />
-  </a>
-
-  <!-- LeetCode -->
-  <a href="https://leetcode.com/u/Rockstar_shivam/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="48" height="40" alt="leetcode logo" style="object-fit: contain;" />
-  </a>
-
-  <!-- GeeksforGeeks -->
-  <a href="https://www.geeksforgeeks.org/user/sri_bhanu_shivam/" target="_blank">
-    <img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200X200.png" width="48" height="40" alt="geeksforgeeks logo" style="object-fit: contain;" />
-  </a>
-
-  <!-- Kaggle -->
-  <a href="https://www.kaggle.com/rokstarshivam" target="_blank">
-    <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-1024.png" width="48" height="40" alt="kaggle logo" style="object-fit: contain;" />
-  </a>
-</div>
-
-
-
-
+I’m a self-taught passionate **Machine Learning & Web Developer** from India 🇮🇳
 
 ---
 
-<h2 align="left">💻 Languages and Tools:</h2>
+### 👨‍💻 About Me
 
-<h3>Programming Languages</h3>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" />
-</div>
-
-<h3>Data Science & ML</h3>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" height="30" />
-</div>
-
-<h3>Tools & Platforms</h3>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" height="30" />
-</div>
+- 🎓 CSE Undergrad | 👨‍💻 Passionate about ML, Flask, DSA, and Full Stack Development
+- 🧠 Currently learning: Advanced Machine Learning + Full-stack deployment
+- 🚀 Projects: ML apps (Flask), Telegram bots, Portfolio Website
+- 💬 Ask me anything [here](https://github.com/Shivam-Shukl/Shivam-Shukl/issues)
 
 ---
 
-<h2>📂 Projects</h2>
+### 🛠 Tech Stack
 
-- 🧠 **YOLO-based Traffic Management System** – Computer Vision + Deep Learning  
-- ☁️ **Handmade Crafts Marketplace** – Built using AWS Cloud tools  
-- 🧪 **Mushroom Classification** – Using scikit-learn & UCI dataset  
-- 📊 **IPL Dashboard** – Visualized in Tableau
-
----
-
-<div align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Shivam-Shukl&show_icons=true&theme=dracula" height="180" />
-  
-  <!-- GitHub Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=Shivam-Shukl&theme=dracula&hide_border=false&locale=en" height="180" />
-  
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam-Shukl&layout=compact&theme=dracula" height="180" />
-</div>
-
+<code><img height="20" alt="python" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"></code>
+<code><img height="20" alt="tensorflow" src="https://raw.githubusercontent.com/github/explore/master/topics/tensorflow/tensorflow.png"></code>
+<code><img height="20" alt="flask" src="https://raw.githubusercontent.com/github/explore/master/topics/flask/flask.png"></code>
+<code><img height="20" alt="html" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png"></code>
+<code><img height="20" alt="css" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png"></code>
+<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"></code>
+<code><img height="20" alt="vscode" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png"></code>
 
 ---
 
-🌟 *Fuelled by data, driven by curiosity, and always ready to learn.*
+### 📊 GitHub Stats
+
+| <a href="https://github.com/Shivam-Shukl"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Shivam-Shukl&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Shivam's github stats" /></a> | <a href="https://github.com/Shivam-Shukl"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam-Shukl&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+---
+
+### 📌 Top Repositories
+
+<a href="https://github.com/Shivam-Shukl/news-fake-genuine-detector">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shivam-Shukl&repo=news-fake-genuine-detector&theme=buefy" />
+</a>
+<a href="https://github.com/Shivam-Shukl/potato-disease-classification">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shivam-Shukl&repo=potato-disease-classification&theme=buefy" />
+</a>
+
+---
+
+### 🔗 Connect with Me
+
+<a href="https://twitter.com/yourhandle">
+  <img align="right" alt="Shivam Shukla | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/your-profile">
+  <img align="right" alt="Shivam Shukla | LinkedIn" width="20px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" />
+</a>
+<a href="mailto:yourmail@gmail.com">
+  <img align="right" alt="Shivam's Email" width="20px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" />
+</a>
+
+---
+
+⭐️ From [Shivam-Shukl](https://github.com/Shivam-Shukl)
