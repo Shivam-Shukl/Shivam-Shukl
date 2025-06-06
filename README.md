@@ -1,18 +1,10 @@
-<p align="center">
-  <b>Hi, I'm Shivam 👋</b><br>
-  <br>
-  I Love Energy.<br><br>
-  <a href="https://github.com/Shivam-Shukl">
-    <img src="https://img.shields.io/badge/GitHub-Shivam--Shukl-blue?logo=github&style=for-the-badge" />
-  </a>
-</p
 
 <p align="center">
 
   <strong>Hi, I’m Shivam 👋</strong><br/>
   <em>ML Engineer • Student • Tech Enthusiast</em><br/>&nbsp;<br/>
 
-  I Love Energy ⚡ — building data-driven products that make life easier.<br/>&nbsp;<br/>
+  I Love Energy ⚡<br/>&nbsp;<br/>
 
   <!-- Badges -->
   <a href="https://www.linkedin.com/in/shivam-shukla-a462b3223/">
