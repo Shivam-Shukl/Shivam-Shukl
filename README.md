@@ -1,6 +1,9 @@
 <p align="center">
-  <a href="https://anuraghazra.github.io">
-    <img width="80%" alt="Hello, I'm Shivam. I build ML projects and love tech!" src="https://yourdomain.com/your-header-image.png" />
+  <b>Hi, I'm Shivam 👋</b><br>
+  I build Machine Learning projects and love working with new technologies.<br>
+  Exploring AI, Flask, and full-stack ML apps 🚀<br><br>
+  <a href="https://github.com/Shivam-Shukl">
+    <img src="https://img.shields.io/badge/GitHub-Shivam--Shukl-blue?logo=github&style=for-the-badge" />
   </a>
 </p>
 
