@@ -15,13 +15,10 @@
   I Love Energy ⚡ — building data-driven products that make life easier.<br/>&nbsp;<br/>
 
   <!-- Badges -->
-  <a href="https://github.com/Shivam-Shukl">
-    <img src="https://img.shields.io/badge/GitHub-Shivam--Shukl-181717?logo=github&style=for-the-badge" alt="GitHub Badge"/>
-  </a>
-  <a href="https://www.linkedin.com/in/your-profile">
+  <a href="https://www.linkedin.com/in/shivam-shukla-a462b3223/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
-  <a href="mailto:yourmail@gmail.com">
+  <a href="shivamshuklass661@gmail.com">
     <img src="https://img.shields.io/badge/Email-Say%20Hi-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email Badge"/>
   </a>
 
