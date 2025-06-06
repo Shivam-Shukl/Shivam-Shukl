@@ -33,21 +33,27 @@
 
 ### 🛠 Tech Stack
 
-<img height="20" alt="numpy" src="https://raw.githubusercontent.com/github/explore/master/topics/numpy/numpy.png">
-<img height="20" alt="pandas" src="https://raw.githubusercontent.com/github/explore/master/topics/pandas/pandas.png">
-<img height="20" alt="scikit-learn" src="https://raw.githubusercontent.com/github/explore/master/topics/scikit-learn/scikit-learn.png">
-<img height="20" alt="matplotlib" src="https://raw.githubusercontent.com/github/explore/master/topics/matplotlib/matplotlib.png">
-<img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png">
-<img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png">
-<img height="20" alt="docker" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png">
-<img height="20" alt="git" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">
-<img height="20" alt="github" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png">
-<img height="20" alt="linux" src="https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png">
-<img height="20" alt="bash" src="https://raw.githubusercontent.com/github/explore/master/topics/bash/bash.png">
-<img height="20" alt="mysql" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png">
-<img height="20" alt="postgresql" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png">
-<img height="20" alt="restapi" src="https://raw.githubusercontent.com/github/explore/master/topics/rest-api/rest-api.png">
-
+<code><img height="20" alt="python" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"></code>
+<code><img height="20" alt="tensorflow" src="https://raw.githubusercontent.com/github/explore/master/topics/tensorflow/tensorflow.png"></code>
+<code><img height="20" alt="flask" src="https://raw.githubusercontent.com/github/explore/master/topics/flask/flask.png"></code>
+<code><img height="20" alt="html" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png"></code>
+<code><img height="20" alt="css" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png"></code>
+<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"></code>
+<code><img height="20" alt="vscode" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png"></code>
+<code><img height="20" alt="numpy" src="https://raw.githubusercontent.com/github/explore/master/topics/numpy/numpy.png"></code>
+<code><img height="20" alt="pandas" src="https://raw.githubusercontent.com/github/explore/master/topics/pandas/pandas.png"></code>
+<code><img height="20" alt="scikit-learn" src="https://raw.githubusercontent.com/github/explore/master/topics/scikit-learn/scikit-learn.png"></code>
+<code><img height="20" alt="matplotlib" src="https://raw.githubusercontent.com/github/explore/master/topics/matplotlib/matplotlib.png"></code>
+<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png"></code>
+<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png"></code>
+<code><img height="20" alt="docker" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png"></code>
+<code><img height="20" alt="git" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png"></code>
+<code><img height="20" alt="github" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png"></code>
+<code><img height="20" alt="linux" src="https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png"></code>
+<code><img height="20" alt="bash" src="https://raw.githubusercontent.com/github/explore/master/topics/bash/bash.png"></code>
+<code><img height="20" alt="mysql" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png"></code>
+<code><img height="20" alt="postgresql" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png"></code>
+<code><img height="20" alt="restapi" src="https://raw.githubusercontent.com/github/explore/master/topics/rest-api/rest-api.png"></code>
 
 ---
 
