@@ -1,6 +1,7 @@
 <p align="center">
   <strong style="font-size:28px;">Hi, I’m Shivam 👋</strong><br/>
-  <em>ML Engineer • Student • Tech Enthusiast — I Love Energy ⚡</em><br/><br/>
+  <em>ML Engineer • Student • Tech Enthusiast</em><br/>
+  <em>I Love Energy ⚡</em><br/><br/>
 
   <!-- Badges -->
   <a href="https://www.linkedin.com/in/shivam-shukla-a462b3223/" target="_blank">
