@@ -9,7 +9,6 @@
 
 <br />
 
-I’m a self-taught passionate **Machine Learning & Aspiring Web Developer** from India 🇮🇳
 
 ---
 
