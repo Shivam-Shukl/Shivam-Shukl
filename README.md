@@ -64,18 +64,5 @@ I’m a self-taught passionate **Machine Learning & Aspring Web Developer** from
 
 ---
 
-### 🔗 Connect with Me
-
-<a href="https://twitter.com/yourhandle">
-  <img align="right" alt="Shivam Shukla | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/your-profile">
-  <img align="right" alt="Shivam Shukla | LinkedIn" width="20px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" />
-</a>
-<a href="mailto:yourmail@gmail.com">
-  <img align="right" alt="Shivam's Email" width="20px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" />
-</a>
-
----
 
 ⭐️ From [Shivam-Shukl](https://github.com/Shivam-Shukl)
