@@ -1,6 +1,6 @@
 <p align="center">
   <b>Hi, I'm Shivam 👋</b><br>
-  I build Machine Learning projects and love working with new technologies.<br>
+  I’m a self-taught passionate **Machine Learning & Aspring Web Developer** from India 🇮🇳.<br>
   Exploring AI, Flask, and full-stack ML apps 🚀<br><br>
   <a href="https://github.com/Shivam-Shukl">
     <img src="https://img.shields.io/badge/GitHub-Shivam--Shukl-blue?logo=github&style=for-the-badge" />
