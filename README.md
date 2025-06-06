@@ -24,9 +24,9 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 CSE Undergrad | 👨‍💻 Passionate about ML, Flask, DSA, and Full Stack Development
+- 🎓 CSE Undergrad | 👨‍💻 Passionate about ML, Flask , and Full Stack Development | A good problem solver. 
 - 🧠 Currently learning: Advanced Machine Learning + Full-stack deployment
-- 🚀 Projects: ML apps (Flask), Telegram bots, Portfolio Website
+- 🚀 Projects: ML apps (Flask), Telegram bots, Recommendation systems , exploring new projects.
 - 💬 Ask me anything [here](https://github.com/Shivam-Shukl/Shivam-Shukl/issues)
 
 ---
@@ -52,10 +52,10 @@
 
 ### 📌 Top Repositories
 
-<a href="https://github.com/Shivam-Shukl/news-fake-genuine-detector">
+<a href="https://github.com/Shivam-Shukl/200-Days-ML-Theory-Full-Stack-ML-Development-Challenge">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shivam-Shukl&repo=news-fake-genuine-detector&theme=buefy" />
 </a>
-<a href="https://github.com/Shivam-Shukl/potato-disease-classification">
+<a href="https://github.com/Shivam-Shukl/Tech_questions_Bot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shivam-Shukl&repo=potato-disease-classification&theme=buefy" />
 </a>
 
