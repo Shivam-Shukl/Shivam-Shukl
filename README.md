@@ -1,14 +1,38 @@
 <p align="center">
   <b>Hi, I'm Shivam 👋</b><br>
-  I’m a self-taught passionate **Machine Learning & Aspring Web Developer** from India 🇮🇳.<br>
-  Exploring AI, Flask, and full-stack ML apps 🚀<br><br>
+  <br>
+  I Love Energy.<br><br>
   <a href="https://github.com/Shivam-Shukl">
     <img src="https://img.shields.io/badge/GitHub-Shivam--Shukl-blue?logo=github&style=for-the-badge" />
   </a>
+</p
+
+<p align="center">
+
+  <strong>Hi, I’m Shivam 👋</strong><br/>
+  <em>ML Engineer • Student • Tech Enthusiast</em><br/>&nbsp;<br/>
+
+  I Love Energy ⚡ — building data-driven products that make life easier.<br/>&nbsp;<br/>
+
+  <!-- Badges -->
+  <a href="https://github.com/Shivam-Shukl">
+    <img src="https://img.shields.io/badge/GitHub-Shivam--Shukl-181717?logo=github&style=for-the-badge" alt="GitHub Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/your-profile">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:yourmail@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Say%20Hi-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email Badge"/>
+  </a>
+
 </p>
+
+&nbsp;
+
 
 <br />
 
+I’m a self-taught passionate **Machine Learning & Aspring Web Developer** from India 🇮🇳.
 
 ---
 
