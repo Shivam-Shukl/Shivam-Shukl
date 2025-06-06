@@ -16,7 +16,7 @@
 &nbsp;
 
 
-<br />
+<br align = "center" />
 
 I’m a self-taught passionate **Machine Learning & Aspring Web Developer** from India 🇮🇳.
 
