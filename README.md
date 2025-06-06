@@ -1,12 +1,12 @@
 <p align="center">
-  <a href="https://github.com/Shivam-Shukl">
+  <a href="https://anuraghazra.github.io">
     <img width="80%" alt="Hello, I'm Shivam. I build ML projects and love tech!" src="https://yourdomain.com/your-header-image.png" />
   </a>
 </p>
 
 <br />
 
-I’m a self-taught passionate **Machine Learning & Web Developer** from India 🇮🇳
+I’m a self-taught passionate **Machine Learning & Aspiring Web Developer** from India 🇮🇳
 
 ---
 
