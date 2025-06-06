@@ -63,11 +63,12 @@
 ### 📌 Top Repositories
 
 <a href="https://github.com/Shivam-Shukl/200-Days-ML-Theory-Full-Stack-ML-Development-Challenge">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shivam-Shukl&repo=news-fake-genuine-detector&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shivam-Shukl&repo=200-Days-ML-Theory-Full-Stack-ML-Development-Challenge&theme=buefy" />
 </a>
 <a href="https://github.com/Shivam-Shukl/Tech_questions_Bot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shivam-Shukl&repo=potato-disease-classification&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shivam-Shukl&repo=Tech_questions_Bot&theme=buefy" />
 </a>
+
 
 ---
 
