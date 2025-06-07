@@ -15,12 +15,14 @@
 
 ### 👋 About Me
 
-- 🌱 **Self-taught ML Engineer** and CSE Undergrad from India 🇮🇳
-- 🚀 Building ML apps, full-stack solutions, and automation tools
-- 💡 Passionate about energy, tech for good, and lifelong learning
-- 🧠 Currently diving deep into: Advanced ML, full-stack deployment & creative problem solving
-- 🤝 Open to collaborations on impactful tech projects
-- 💬 Ask me anything [here](https://github.com/Shivam-Shukl/Shivam-Shukl/issues) or just say hi!
+- 🎓 CSE undergrad & self‐taught ML engineer  
+- 🎯 Efficient Problem solver ,learning DP & graph.
+- 🚀 Building ML apps, full-stack services & automation  
+- 🤖 Made a Hinglish tech-quiz bot with Dialogflow  
+- 🔍 Deep into ML, deploy pipelines & algos  
+- 🌱 Always learning: energy tech, data viz & code  
+- 🤝 Open to collab—let’s make impact!  
+- 📬 Say hi or log an issue: [Shivam’s Issues](https://github.com/Shivam-Shukla/Shivam-Shukla/issues)
 
 ---
 
