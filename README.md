@@ -25,142 +25,45 @@
 - 📬 Say hi or log an issue: [Shivam’s Issues](https://github.com/Shivam-Shukla/Shivam-Shukla/issues)
 
 ---
+
 ## 🧠 Data Science Skills
 
----
-
-### <img src="https://img.icons8.com/color/48/000000/idea-sharing.png" width="22" valign="middle"/> Problem Understanding & Goal Definition
-- Critical thinking, domain knowledge, communication, requirement analysis, stakeholder discussion, hypothesis framing
-
----
-
-### <img src="https://img.icons8.com/color/48/000000/download-from-cloud.png" width="22" valign="middle"/> Data Collection & Acquisition
-**Tech Skills:**
+#### 📥 Data Loading & Cleaning
 <p>
-  <img src="https://img.icons8.com/color/48/000000/python.png" width="22" title="Python"/>
-  <img src="https://img.icons8.com/color/48/000000/selenium-test-automation.png" width="22" title="Selenium"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/scrapy.svg" width="22" title="Scrapy"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/beautifulsoup.svg" width="22" title="BeautifulSoup"/>
-  <img src="https://img.icons8.com/fluency/48/000000/api.png" width="22" title="APIs"/>
-  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" width="22" title="SQL"/>
-  <img src="https://img.icons8.com/fluency/48/000000/amazon-web-services.png" width="22" title="AWS"/>
-  <img src="https://img.icons8.com/color/48/000000/google-cloud.png" width="22" title="GCP"/>
-  <img src="https://img.icons8.com/color/48/000000/microsoft-azure.png" width="22" title="Azure"/>
-  <img src="https://img.icons8.com/ios/50/000000/csv.png" width="22" title="CSV"/>
-  <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" width="22" title="Excel"/>
-  <img src="https://img.icons8.com/color/48/000000/json--v1.png" width="22" title="JSON"/>
-  <img src="https://img.icons8.com/ios/50/000000/xml.png" width="22" title="XML"/>
+  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+  <img alt="Numpy" src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 </p>
 
----
-
-### <img src="https://img.icons8.com/color/48/000000/broom.png" width="22" valign="middle"/> Data Cleaning & Preprocessing
-**Tech Skills:**
+#### 🛠️ Feature Engineering & EDA
 <p>
-  <img src="https://img.icons8.com/color/48/000000/python.png" width="22" title="Python"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pandas.svg" width="22" title="pandas"/>
-  <img src="https://img.icons8.com/color/48/000000/numpy.png" width="22" title="numpy"/>
-  <img src="https://img.icons8.com/ios/50/000000/regular-expression.png" width="22" title="Regex"/>
+  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+  <img alt="Numpy" src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+  <img alt="Scikit-learn" src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
 </p>
-- Handling missing values, duplicates, outliers, data type conversion, string/date parsing, feature consistency
 
----
-
-### <img src="https://img.icons8.com/color/48/000000/combo-chart--v1.png" width="22" valign="middle"/> Exploratory Data Analysis (EDA)
-**Tech Skills:**
+#### 📊 Data Visualization
 <p>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pandas.svg" width="22" title="pandas"/>
-  <img src="https://img.icons8.com/color/48/000000/statistics.png" width="22" title="Statistics"/>
-  <img src="https://img.icons8.com/color/48/000000/matplotlib.png" width="22" title="matplotlib"/>
-  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="55" height="22" title="seaborn" style="vertical-align:middle"/>
-  <img src="https://img.icons8.com/color/48/000000/plotly.png" width="22" title="Plotly"/>
+  <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white"/>
+  <img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img alt="Plotly" src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white"/>
 </p>
-- Univariate, bivariate, multivariate analysis, distributions, trends
 
----
-
-### <img src="https://img.icons8.com/color/48/000000/engineering.png" width="22" valign="middle"/> Feature Engineering
-**Tech Skills:**
+#### 🤖 Model Building & Evaluation
 <p>
-  <img src="https://img.icons8.com/color/48/000000/python.png" width="22" title="Python"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pandas.svg" width="22" title="pandas"/>
-  <img src="https://img.icons8.com/color/48/000000/numpy.png" width="22" title="numpy"/>
-  <img src="https://img.icons8.com/ios/50/000000/scale.png" width="22" title="Scaling"/>
-  <img src="https://img.icons8.com/color/48/000000/ai.png" width="22" title="Dimensionality Reduction"/>
+  <img alt="Scikit-learn" src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+  <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/>
 </p>
-- Feature creation, encoding (Label, One-Hot), scaling (StandardScaler, MinMaxScaler), PCA, t-SNE
 
----
-
-### <img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" width="22" valign="middle"/> Model Building & Evaluation
-**Tech Skills:**
+#### 🗄️ Database Skills
 <p>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/scikitlearn.svg" width="22" title="scikit-learn"/>
-  <img src="https://img.icons8.com/color/48/000000/tensorflow.png" width="22" title="TensorFlow"/>
-  <img src="https://keras.io/img/logo.png" width="22" title="Keras"/>
-  <img src="https://img.icons8.com/color/48/000000/xgboost.png" width="22" title="XGBoost"/>
-  <img src="https://img.icons8.com/color/48/000000/svm.png" width="22" title="SVM"/>
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 </p>
-- ML algorithms (Linear/Logistic Regression, Decision Tree, Random Forest, XGBoost, SVM, KNN), model selection, pipeline, metrics (Accuracy, Precision, Recall, F1, ROC-AUC), confusion matrix, cross-validation, hyperparameter tuning (GridSearchCV, RandomizedSearchCV, Optuna, BayesSearchCV)
-
----
-
-### <img src="https://img.icons8.com/color/48/000000/test-tube.png" width="22" valign="middle"/> Experiment Tracking & Reproducibility
-**Tech Skills:**
-<p>
-  <img src="https://mlflow.org/images/MLflow-logo-final-black.png" width="22" title="MLflow"/>
-  <img src="https://user-images.githubusercontent.com/3375461/104106916-1b2e2e00-528b-11eb-8214-6c5a8a4b6ac9.png" width="22" title="Weights & Biases"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png" width="22" title="Git"/>
-</p>
-- MLflow, Weights & Biases, reproducibility setup, version control for models/data
-
----
-
-### <img src="https://img.icons8.com/color/48/000000/rocket.png" width="22" valign="middle"/> Model Deployment
-**Tech Skills:**
-<p>
-  <img src="https://img.icons8.com/color/48/000000/flask.png" width="22" title="Flask"/>
-  <img src="https://img.icons8.com/color/48/000000/fastapi.png" width="22" title="FastAPI"/>
-  <img src="https://img.icons8.com/color/48/000000/docker.png" width="22" title="Docker"/>
-  <img src="https://img.icons8.com/fluency/48/000000/amazon-web-services.png" width="22" title="AWS"/>
-  <img src="https://img.icons8.com/color/48/000000/google-cloud.png" width="22" title="GCP"/>
-  <img src="https://img.icons8.com/color/48/000000/microsoft-azure.png" width="22" title="Azure"/>
-  <img src="https://img.icons8.com/color/48/000000/heroku.png" width="22" title="Heroku"/>
-  <img src="https://img.icons8.com/fluency/48/000000/api.png" width="22" title="REST API"/>
-</p>
-- Flask & FastAPI, Docker, cloud deployment (Render, AWS, GCP, Azure, Heroku), CI/CD basics, REST API
-
----
-
-### <img src="https://img.icons8.com/color/48/000000/monitor--v2.png" width="22" valign="middle"/> Monitoring & Feedback Loop
-**Tech Skills:**
-<p>
-  <img src="https://img.icons8.com/color/48/000000/prometheus-app.png" width="22" title="Prometheus"/>
-  <img src="https://img.icons8.com/color/48/000000/grafana.png" width="22" title="Grafana"/>
-  <img src="https://raw.githubusercontent.com/evidentlyai/evidently/main/docs/_static/evidently-logo-light.png" width="22" title="Evidently AI"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png" width="22" title="Git"/>
-  <img src="https://raw.githubusercontent.com/iterative/dvc.org/main/static/img/dvc-logo-black.svg" width="22" title="DVC"/>
-</p>
-- Monitoring (Prometheus, Grafana, Evidently AI), logging, drift detection, retraining, data versioning (DVC)
-
----
-
-### <img src="https://img.icons8.com/fluency/48/000000/document.png" width="22" valign="middle"/> Documentation & Reporting
-**Tech Skills:**
-<p>
-  <img src="https://img.icons8.com/ios-filled/50/000000/markdown.png" width="22" title="Markdown"/>
-  <img src="https://jupyter.org/assets/homepage/main-logo.svg" width="22" title="Jupyter"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png" width="22" title="Git"/>
-  <img src="https://img.icons8.com/color/48/000000/tableau-software.png" width="22" title="Tableau"/>
-  <img src="https://img.icons8.com/color/48/000000/power-bi.png" width="22" title="Power BI"/>
-  <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" width="22" title="Streamlit"/>
-</p>
-- Markdown, Jupyter, Git, Tableau, Power BI, Streamlit, effective storytelling
 
 ---
 
 ## 🌐 Web Development Skills
-
 <p>
   <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
   <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
@@ -172,11 +75,11 @@
 
 ---
 
-## 🛠️ Version Control & Languages
+## 🛠️ Version Control & Programming Languages
 
 <p>
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  <img alt="Git" src="https://img.icons8.com/color/48/000000/git.png" width="22" title="Git"/>
+  <img alt="GitHub" src="https://img.icons8.com/ios-glyphs/30/000000/github.png" width="22" title="GitHub"/>
 </p>
 
 **Languages:**  
@@ -184,6 +87,8 @@
 <img alt="C++" src="https://img.shields.io/badge/C++-10%2F10-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
 <img alt="Java" src="https://img.shields.io/badge/Java-7%2F10-007396?style=flat-square&logo=java&logoColor=white"/>
 <img alt="Scala" src="https://img.shields.io/badge/Scala-6%2F10-DC322F?style=flat-square&logo=scala&logoColor=white"/>
+
+---
 
 ---
 
