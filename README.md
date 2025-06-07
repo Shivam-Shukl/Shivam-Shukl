@@ -1,76 +1,81 @@
 <p align="center">
-  <strong style="font-size:28px;">Hi, I’m Shivam 👋</strong><br/>
-  <em>ML Engineer • Student • Tech Enthusiast</em><br/>
-  <em>I Love Energy ⚡</em>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F7931E&center=true&vCenter=true&multiline=true&width=700&lines=Hey%2C+I'm+Shivam+Shukla+%F0%9F%91%8B;ML+Engineer+%7C+Full-Stack+Explorer+%7C+Energy+Enthusiast+%E2%9A%A1%EF%B8%8F" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shivam-shukla-a462b3223/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
-  </a>&nbsp;
+  </a>
   <a href="mailto:shivamshuklass661@gmail.com" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Email-Say%20Hi-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email Badge"/>
   </a>
 </p>
 
+---
 
-<br/>
+### 👋 About Me
 
-<p align="center">
-  I’m a self-taught passionate <strong>Machine Learning & Aspiring Web Developer</strong> from India 🇮🇳.
+- 🌱 **Self-taught ML Engineer** and CSE Undergrad from India 🇮🇳
+- 🚀 Building ML apps, full-stack solutions, and automation tools
+- 💡 Passionate about energy, tech for good, and lifelong learning
+- 🧠 Currently diving deep into: Advanced ML, full-stack deployment & creative problem solving
+- 🤝 Open to collaborations on impactful tech projects
+- 💬 Ask me anything [here](https://github.com/Shivam-Shukl/Shivam-Shukl/issues) or just say hi!
+
+---
+
+### ⚡ Tech Stack
+
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+  <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+  <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img alt="VS Code" src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
+  <img alt="Numpy" src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+  <img alt="Scikit-learn" src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+  <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white"/>
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img alt="REST API" src="https://img.shields.io/badge/REST-02569B?style=flat-square&logo=fastapi&logoColor=white"/>
 </p>
 
 ---
 
-### 👨‍💻 About Me
-
-- 🎓 CSE Undergrad | 👨‍💻 Passionate about ML, Flask , and Full Stack Development | A good problem solver. 
-- 🧠 Currently learning: Advanced Machine Learning + Full-stack deployment
-- 🚀 Projects: ML apps (Flask), Telegram bots, Recommendation systems , exploring new projects.
-- 💬 Ask me anything [here](https://github.com/Shivam-Shukl/Shivam-Shukl/issues)
-
----
-
-### 🛠 Tech Stack
-
-<code><img height="20" alt="python" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
-<code><img height="20" alt="tensorflow" src="https://raw.githubusercontent.com/github/explore/main/topics/tensorflow/tensorflow.png"></code>
-<code><img height="20" alt="flask" src="https://raw.githubusercontent.com/github/explore/main/topics/flask/flask.png"></code>
-<code><img height="20" alt="html" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png"></code>
-<code><img height="20" alt="css" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png"></code>
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code>
-<code><img height="20" alt="vscode" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png"></code>
-
-<!-- Updated tech stack -->
-<code><img height="20" alt="numpy" src="https://raw.githubusercontent.com/github/explore/main/topics/numpy/numpy.png"></code>
-<code><img height="20" alt="pandas" src="https://raw.githubusercontent.com/github/explore/main/topics/pandas/pandas.png"></code>
-<code><img height="20" alt="scikit-learn" src="https://raw.githubusercontent.com/github/explore/main/topics/scikit-learn/scikit-learn.png"></code>
-<code><img height="20" alt="matplotlib" src="https://raw.githubusercontent.com/github/explore/main/topics/matplotlib/matplotlib.png"></code>
-<code><img height="20" alt="git" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png"></code>
-<code><img height="20" alt="github" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png"></code>
-<code><img height="20" alt="mysql" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png"></code>
-<code><img height="20" alt="rest-api" src="https://raw.githubusercontent.com/github/explore/main/topics/rest-api/rest-api.png"></code>
-
----
-
-### 📊 GitHub Stats
-
-| <a href="https://github.com/Shivam-Shukl"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Shivam-Shukl&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Shivam's github stats" /></a> | <a href="https://github.com/Shivam-Shukl"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam-Shukl&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-
----
-
-
-### 📌 Top Repositories
+### 🚩 Featured Projects
 
 <a href="https://github.com/Shivam-Shukl/200-Days-ML-Theory-Full-Stack-ML-Development-Challenge">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shivam-Shukl&repo=200-Days-ML-Theory-Full-Stack-ML-Development-Challenge&theme=buefy" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shivam-Shukl&repo=200-Days-ML-Theory-Full-Stack-ML-Development-Challenge&theme=buefy" />
 </a>
 <a href="https://github.com/Shivam-Shukl/Tech_questions_Bot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shivam-Shukl&repo=Tech_questions_Bot&theme=buefy" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shivam-Shukl&repo=Tech_questions_Bot&theme=buefy" />
 </a>
 
 ---
 
+### 📈 My GitHub Stats
 
-⭐️ From [Shivam-Shukl](https://github.com/Shivam-Shukl)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shivam-Shukl&show_icons=true&theme=buefy&hide_border=true" alt="Shivam's github stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam-Shukl&layout=compact&theme=buefy&hide_border=true"/>
+</p>
+
+---
+
+### 🌟 Fun Facts
+
+- ⚡ I love all things energy—sustainable tech, smart grids, and energy-efficient ML!
+- 📚 Lifelong learner: I’m always picking up new tech and sharing what I learn.
+- 🎯 My motto: “Build, learn, share, repeat.”
+
+---
+
+<p align="center">
+  <b>Let’s build something awesome together!</b>
+  <br/>
+  <a href="https://github.com/Shivam-Shukl/Shivam-Shukl/issues">Open to collaboration & questions</a>
+</p>
