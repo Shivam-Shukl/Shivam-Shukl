@@ -66,6 +66,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam-Shukl&layout=compact&theme=buefy&hide_border=true"/>
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Shivam-Shukl&theme=buefy&hide_border=true" alt="Shivam's streak stats"/>
+</p>
+
 ---
 
 ### 🌟 Fun Facts
@@ -78,5 +82,5 @@
 <p align="center">
   <b>Let’s build something awesome together!</b>
   <br/>
-  <a href="https://github.com/Shivam-Shukl/Shivam-Shukl/issues">Open to collaboration & questions</a>
+  <a href="https://github.com/Shivam-Shukl/Shivam-Shukla/issues">Open to collaboration & questions</a>
 </p>
