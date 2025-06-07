@@ -47,6 +47,7 @@
   <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white"/>
   <img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img alt="Plotly" src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white"/>
+  <img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
 </p>
 
 #### 🤖 Model Building & Evaluation
@@ -87,8 +88,6 @@
 <img alt="C++" src="https://img.shields.io/badge/C++-10%2F10-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
 <img alt="Java" src="https://img.shields.io/badge/Java-7%2F10-007396?style=flat-square&logo=java&logoColor=white"/>
 <img alt="Scala" src="https://img.shields.io/badge/Scala-6%2F10-DC322F?style=flat-square&logo=scala&logoColor=white"/>
-
----
 
 ---
 
