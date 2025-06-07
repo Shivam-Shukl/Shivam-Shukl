@@ -26,7 +26,7 @@
 
 ---
 
-## 🧠 Data Science Skills
+##  Data Science Skills
 
 #### 📥 Data Loading & Cleaning
 <p>
