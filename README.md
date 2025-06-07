@@ -16,7 +16,7 @@
 ### 👋 About Me
 
 - 🎓 CSE undergrad & self‐taught ML engineer  
-- 🎯 Efficient Problem solver ,learning DP & graph.
+- 🎯 Efficient Problem solver, learning DP & graph.
 - 🚀 Building ML apps, full-stack services & automation  
 - 🤖 Made a Hinglish tech-quiz bot with Dialogflow  
 - 🔍 Deep into ML, deploy pipelines & algos  
@@ -26,24 +26,44 @@
 
 ---
 
-### ⚡ Tech Stack
+## ⚡ Tech Stack
 
+### 🤖 Machine Learning Skills
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+  <img alt="Scikit-learn" src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+  <img alt="Numpy" src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+  <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white"/>
+</p>
+
+### 🌐 Web Development Skills
+<p>
   <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
   <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
   <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img alt="REST API" src="https://img.shields.io/badge/REST-02569B?style=flat-square&logo=fastapi&logoColor=white"/>
   <img alt="VS Code" src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
-  <img alt="Numpy" src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-  <img alt="Scikit-learn" src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-  <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white"/>
+</p>
+
+### 🗄️ Database Skills
+<p>
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+</p>
+
+### 🛠️ Version Control & Collaboration
+<p>
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-  <img alt="REST API" src="https://img.shields.io/badge/REST-02569B?style=flat-square&logo=fastapi&logoColor=white"/>
+</p>
+
+### 🖥️ Languages
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/Python-8%2F10-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img alt="C++" src="https://img.shields.io/badge/C++-10%2F10-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
+  <img alt="Java" src="https://img.shields.io/badge/Java-7%2F10-007396?style=flat-square&logo=java&logoColor=white"/>
 </p>
 
 ---
