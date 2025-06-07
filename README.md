@@ -70,9 +70,8 @@
 
 ### 🌟 Fun Facts
 
-- ⚡ I love all things energy—sustainable tech, smart grids, and energy-efficient ML!
+- ⚡ I love energy.
 - 📚 Lifelong learner: I’m always picking up new tech and sharing what I learn.
-- 🎯 My motto: “Build, learn, share, repeat.”
 
 ---
 
