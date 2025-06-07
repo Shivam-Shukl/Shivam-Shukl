@@ -25,73 +25,137 @@
 - 📬 Say hi or log an issue: [Shivam’s Issues](https://github.com/Shivam-Shukla/Shivam-Shukla/issues)
 
 ---
+## 🧠 Data Science Skills
 
-## 🧠 Data Science & Machine Learning Skills
+---
 
-<details>
-<summary><b>1. Problem Understanding & Data Collection</b></summary>
-<ul>
-  <li>Critical thinking, requirement analysis, and hypothesis framing</li>
-  <li>Data acquisition: <b>Web scraping</b> (BeautifulSoup, Selenium), <b>APIs</b> (requests), <b>SQL</b>, <b>Cloud storage</b> (AWS S3, GCP)</li>
-  <li>File handling: CSV, Excel, JSON, XML</li>
-</ul>
-</details>
+### <img src="https://img.icons8.com/color/48/000000/idea-sharing.png" width="22" valign="middle"/> Problem Understanding & Goal Definition
+- Critical thinking, domain knowledge, communication, requirement analysis, stakeholder discussion, hypothesis framing
 
-<details>
-<summary><b>2. Data Cleaning & Feature Engineering</b></summary>
-<ul>
-  <li><b>Python libraries:</b> pandas, numpy</li>
-  <li>Missing value handling, outlier detection, type conversion, regex</li>
-  <li>Feature creation, encoding (Label, One-Hot), scaling (StandardScaler, MinMaxScaler), dimensionality reduction (PCA, t-SNE)</li>
-</ul>
-</details>
+---
 
-<details>
-<summary><b>3. EDA & Data Visualization</b></summary>
-<ul>
-  <li>Statistics: mean, std, correlation, distributions</li>
-  <li>Visualization: matplotlib, seaborn, plotly, pandas-profiling</li>
-  <li>Univariate, bivariate, multivariate analysis</li>
-</ul>
-</details>
+### <img src="https://img.icons8.com/color/48/000000/download-from-cloud.png" width="22" valign="middle"/> Data Collection & Acquisition
+**Tech Skills:**
+<p>
+  <img src="https://img.icons8.com/color/48/000000/python.png" width="22" title="Python"/>
+  <img src="https://img.icons8.com/color/48/000000/selenium-test-automation.png" width="22" title="Selenium"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/scrapy.svg" width="22" title="Scrapy"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/beautifulsoup.svg" width="22" title="BeautifulSoup"/>
+  <img src="https://img.icons8.com/fluency/48/000000/api.png" width="22" title="APIs"/>
+  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" width="22" title="SQL"/>
+  <img src="https://img.icons8.com/fluency/48/000000/amazon-web-services.png" width="22" title="AWS"/>
+  <img src="https://img.icons8.com/color/48/000000/google-cloud.png" width="22" title="GCP"/>
+  <img src="https://img.icons8.com/color/48/000000/microsoft-azure.png" width="22" title="Azure"/>
+  <img src="https://img.icons8.com/ios/50/000000/csv.png" width="22" title="CSV"/>
+  <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" width="22" title="Excel"/>
+  <img src="https://img.icons8.com/color/48/000000/json--v1.png" width="22" title="JSON"/>
+  <img src="https://img.icons8.com/ios/50/000000/xml.png" width="22" title="XML"/>
+</p>
 
-<details>
-<summary><b>4. Model Building & Evaluation</b></summary>
-<ul>
-  <li><b>ML Frameworks:</b> Scikit-learn, TensorFlow, Keras</li>
-  <li>Algorithms: Linear/Logistic Regression, Decision Tree, Random Forest, XGBoost, SVM, KNN</li>
-  <li>Model selection, pipeline creation, cross-validation</li>
-  <li>Metrics: Accuracy, Precision, Recall, F1, ROC-AUC, confusion matrix</li>
-  <li>Hyperparameter tuning: GridSearchCV, RandomizedSearchCV, Optuna</li>
-</ul>
-</details>
+---
 
-<details>
-<summary><b>5. Experiment Tracking & Deployment</b></summary>
-<ul>
-  <li>Experiment tracking: MLflow, Weights & Biases</li>
-  <li>Backend: Flask, FastAPI</li>
-  <li>Containerization: Docker</li>
-  <li>Cloud deployment: Render, AWS, Heroku</li>
-  <li>CI/CD basics, REST API</li>
-</ul>
-</details>
+### <img src="https://img.icons8.com/color/48/000000/broom.png" width="22" valign="middle"/> Data Cleaning & Preprocessing
+**Tech Skills:**
+<p>
+  <img src="https://img.icons8.com/color/48/000000/python.png" width="22" title="Python"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pandas.svg" width="22" title="pandas"/>
+  <img src="https://img.icons8.com/color/48/000000/numpy.png" width="22" title="numpy"/>
+  <img src="https://img.icons8.com/ios/50/000000/regular-expression.png" width="22" title="Regex"/>
+</p>
+- Handling missing values, duplicates, outliers, data type conversion, string/date parsing, feature consistency
 
-<details>
-<summary><b>6. Monitoring, Versioning & Reporting</b></summary>
-<ul>
-  <li>Monitoring: Prometheus, Grafana, Evidently AI</li>
-  <li>Data/model versioning: DVC, Git</li>
-  <li>Documentation: Markdown, Jupyter, dashboarding (Tableau, Power BI, Streamlit)</li>
-</ul>
-</details>
+---
 
-<details>
-<summary><b>🗄️ Database & Data Extraction</b></summary>
-<ul>
-  <li>SQL (MySQL), data extraction/ETL basics</li>
-</ul>
-</details>
+### <img src="https://img.icons8.com/color/48/000000/combo-chart--v1.png" width="22" valign="middle"/> Exploratory Data Analysis (EDA)
+**Tech Skills:**
+<p>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pandas.svg" width="22" title="pandas"/>
+  <img src="https://img.icons8.com/color/48/000000/statistics.png" width="22" title="Statistics"/>
+  <img src="https://img.icons8.com/color/48/000000/matplotlib.png" width="22" title="matplotlib"/>
+  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="55" height="22" title="seaborn" style="vertical-align:middle"/>
+  <img src="https://img.icons8.com/color/48/000000/plotly.png" width="22" title="Plotly"/>
+</p>
+- Univariate, bivariate, multivariate analysis, distributions, trends
+
+---
+
+### <img src="https://img.icons8.com/color/48/000000/engineering.png" width="22" valign="middle"/> Feature Engineering
+**Tech Skills:**
+<p>
+  <img src="https://img.icons8.com/color/48/000000/python.png" width="22" title="Python"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pandas.svg" width="22" title="pandas"/>
+  <img src="https://img.icons8.com/color/48/000000/numpy.png" width="22" title="numpy"/>
+  <img src="https://img.icons8.com/ios/50/000000/scale.png" width="22" title="Scaling"/>
+  <img src="https://img.icons8.com/color/48/000000/ai.png" width="22" title="Dimensionality Reduction"/>
+</p>
+- Feature creation, encoding (Label, One-Hot), scaling (StandardScaler, MinMaxScaler), PCA, t-SNE
+
+---
+
+### <img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" width="22" valign="middle"/> Model Building & Evaluation
+**Tech Skills:**
+<p>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/scikitlearn.svg" width="22" title="scikit-learn"/>
+  <img src="https://img.icons8.com/color/48/000000/tensorflow.png" width="22" title="TensorFlow"/>
+  <img src="https://keras.io/img/logo.png" width="22" title="Keras"/>
+  <img src="https://img.icons8.com/color/48/000000/xgboost.png" width="22" title="XGBoost"/>
+  <img src="https://img.icons8.com/color/48/000000/svm.png" width="22" title="SVM"/>
+</p>
+- ML algorithms (Linear/Logistic Regression, Decision Tree, Random Forest, XGBoost, SVM, KNN), model selection, pipeline, metrics (Accuracy, Precision, Recall, F1, ROC-AUC), confusion matrix, cross-validation, hyperparameter tuning (GridSearchCV, RandomizedSearchCV, Optuna, BayesSearchCV)
+
+---
+
+### <img src="https://img.icons8.com/color/48/000000/test-tube.png" width="22" valign="middle"/> Experiment Tracking & Reproducibility
+**Tech Skills:**
+<p>
+  <img src="https://mlflow.org/images/MLflow-logo-final-black.png" width="22" title="MLflow"/>
+  <img src="https://user-images.githubusercontent.com/3375461/104106916-1b2e2e00-528b-11eb-8214-6c5a8a4b6ac9.png" width="22" title="Weights & Biases"/>
+  <img src="https://img.icons8.com/color/48/000000/git.png" width="22" title="Git"/>
+</p>
+- MLflow, Weights & Biases, reproducibility setup, version control for models/data
+
+---
+
+### <img src="https://img.icons8.com/color/48/000000/rocket.png" width="22" valign="middle"/> Model Deployment
+**Tech Skills:**
+<p>
+  <img src="https://img.icons8.com/color/48/000000/flask.png" width="22" title="Flask"/>
+  <img src="https://img.icons8.com/color/48/000000/fastapi.png" width="22" title="FastAPI"/>
+  <img src="https://img.icons8.com/color/48/000000/docker.png" width="22" title="Docker"/>
+  <img src="https://img.icons8.com/fluency/48/000000/amazon-web-services.png" width="22" title="AWS"/>
+  <img src="https://img.icons8.com/color/48/000000/google-cloud.png" width="22" title="GCP"/>
+  <img src="https://img.icons8.com/color/48/000000/microsoft-azure.png" width="22" title="Azure"/>
+  <img src="https://img.icons8.com/color/48/000000/heroku.png" width="22" title="Heroku"/>
+  <img src="https://img.icons8.com/fluency/48/000000/api.png" width="22" title="REST API"/>
+</p>
+- Flask & FastAPI, Docker, cloud deployment (Render, AWS, GCP, Azure, Heroku), CI/CD basics, REST API
+
+---
+
+### <img src="https://img.icons8.com/color/48/000000/monitor--v2.png" width="22" valign="middle"/> Monitoring & Feedback Loop
+**Tech Skills:**
+<p>
+  <img src="https://img.icons8.com/color/48/000000/prometheus-app.png" width="22" title="Prometheus"/>
+  <img src="https://img.icons8.com/color/48/000000/grafana.png" width="22" title="Grafana"/>
+  <img src="https://raw.githubusercontent.com/evidentlyai/evidently/main/docs/_static/evidently-logo-light.png" width="22" title="Evidently AI"/>
+  <img src="https://img.icons8.com/color/48/000000/git.png" width="22" title="Git"/>
+  <img src="https://raw.githubusercontent.com/iterative/dvc.org/main/static/img/dvc-logo-black.svg" width="22" title="DVC"/>
+</p>
+- Monitoring (Prometheus, Grafana, Evidently AI), logging, drift detection, retraining, data versioning (DVC)
+
+---
+
+### <img src="https://img.icons8.com/fluency/48/000000/document.png" width="22" valign="middle"/> Documentation & Reporting
+**Tech Skills:**
+<p>
+  <img src="https://img.icons8.com/ios-filled/50/000000/markdown.png" width="22" title="Markdown"/>
+  <img src="https://jupyter.org/assets/homepage/main-logo.svg" width="22" title="Jupyter"/>
+  <img src="https://img.icons8.com/color/48/000000/git.png" width="22" title="Git"/>
+  <img src="https://img.icons8.com/color/48/000000/tableau-software.png" width="22" title="Tableau"/>
+  <img src="https://img.icons8.com/color/48/000000/power-bi.png" width="22" title="Power BI"/>
+  <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" width="22" title="Streamlit"/>
+</p>
+- Markdown, Jupyter, Git, Tableau, Power BI, Streamlit, effective storytelling
 
 ---
 
