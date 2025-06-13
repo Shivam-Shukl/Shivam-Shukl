@@ -13,17 +13,10 @@
 
 ---
 
-### 👋 About Me
+###  About Me
 
-- 🎓 CSE undergrad & self‐taught ML engineer  
-- 🎯 Efficient Problem solver, learning DP & graph.
-- 🚀 Building ML apps, full-stack services & automation  
-- 🤖 Made a Hinglish tech-quiz bot with Dialogflow  
-- 🔍 Deep into ML, deploy pipelines & algos  
-- 🌱 Always learning: energy tech, data viz & code  
-- 🤝 Open to collab—let’s make impact!  
-- 📬 Say hi or log an issue: [Shivam’s Issues](https://github.com/Shivam-Shukla/Shivam-Shukla/issues)
-
+- Data Science Aspirant.
+- Love Problem Solving.
 ---
 
 ##  Data Science Skills
