@@ -104,7 +104,7 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Shivam-Shukl&theme=buefy&hide_border=true" alt="Shivam's streak stats"/>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shivam-Shukl&" alt="Shivam's streak stats" /></p>
+<!--   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shivam-Shukl&" alt="Shivam's streak stats" /></p> -->
 </p>
 
 ---
