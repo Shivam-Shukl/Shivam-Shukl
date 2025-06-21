@@ -9,6 +9,9 @@
   <a href="mailto:shivamshuklass661@gmail.com" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Email-Say%20Hi-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email Badge"/>
   </a>
+  <a href="https://shivam-shukl.github.io/portfolio/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-24292F?logo=githubpages&logoColor=white&style=for-the-badge" alt="Portfolio Badge"/>
+  </a>
 </p>
 
 ---
