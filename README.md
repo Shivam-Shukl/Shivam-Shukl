@@ -85,16 +85,16 @@
 <img alt="Java" src="https://img.shields.io/badge/Java-7%2F10-007396?style=flat-square&logo=java&logoColor=white"/>
 <img alt="Scala" src="https://img.shields.io/badge/Scala-6%2F10-DC322F?style=flat-square&logo=scala&logoColor=white"/>
 
----
 
-### 🚩 Featured Projects
 
-<a href="https://github.com/Shivam-Shukl/200-Days-ML-Theory-Full-Stack-ML-Development-Challenge">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shivam-Shukl&repo=200-Days-ML-Theory-Full-Stack-ML-Development-Challenge&theme=buefy" />
-</a>
-<a href="https://github.com/Shivam-Shukl/Real-Estate-Price-Prediction---Bengaluru">
+<!-- ### 🚩 Featured Projects
+
+<!-- <a href="https://github.com/Shivam-Shukl/200-Days-ML-Theory-Full-Stack-ML-Development-Challenge">
+<!--   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shivam-Shukl&repo=200-Days-ML-Theory-Full-Stack-ML-Development-Challenge&theme=buefy" />
+</a> -->
+<!-- <a href="https://github.com/Shivam-Shukl/Real-Estate-Price-Prediction---Bengaluru">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shivam-Shukl&repo=Real-Estate-Price-Prediction---Bengaluru&theme=buefy" />
-</a>
+</a> -->
 
 ---
 
