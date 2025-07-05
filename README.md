@@ -111,12 +111,7 @@
 
 ---
 
-### 🌟 Fun Facts
 
-- ⚡ I love energy.
-- 📚 Lifelong learner: I’m always picking up new tech and sharing what I learn.
-
----
 
 <p align="center">
   <b>Let’s build something awesome together!</b>
