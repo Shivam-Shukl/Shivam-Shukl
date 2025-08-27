@@ -1,6 +1,6 @@
 <p align="center">
   <strong>
-    <span style="font-size4em;">
+    <span style="font-size-4em;">
       Hey, I'm Shivam Shukla 👋 <br>
     </span>
   </strong>
