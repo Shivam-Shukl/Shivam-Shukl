@@ -1,10 +1,9 @@
+
 <p align="center">
-  <strong>
-    <span style="font-size-4em;">
-      Hey, I'm Shivam Shukla 👋 <br>
-    </span>
-  </strong>
+  <h1 align="center">Hey, I'm <strong>Shivam Shukla</strong> 👋</h1>
+  <p align="center">Final-year Integrated M.Tech — Data Science • ML enthusiast • Backend & DSA lover</p>
 </p>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/shivam-shukla-a462b3223/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
@@ -21,8 +20,12 @@
 
 ###  About Me
 
-- Data Science Aspirant.
-- Love Problem Solving.
+- Final-year Integrated M.Tech (Data Science).  
+- Focus: **Machine Learning**, **Backend (Flask)**, and **Algorithms / DSA (C++)**.  
+---
+### 🎯 What I’m looking for
+- Internships: **Data Science / ML / Backend** roles (remote or on-site).  
+- Short-term collaborations on ML/DS projects or open-source contributions.
 ---
 
 ##  Data Science Skills
