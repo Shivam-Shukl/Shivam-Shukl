@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F7931E&center=true&vCenter=true&multiline=true&width=700&lines=Hey%2C+I'm+Shivam+Shukla+%F0%9F%91%8B;ML+Engineer+%7C+Full-Stack+Explorer+%7C+Energy+Enthusiast+%E2%9A%A1%EF%B8%8F" alt="Typing SVG" />
+  <strong>
+    Hey, I'm Shivam Shukla 👋 <br>
+    ML Engineer | Full-Stack Explorer | Energy Enthusiast ⚡️
+  </strong>
 </p>
 
 <p align="center">
