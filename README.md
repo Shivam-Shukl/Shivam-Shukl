@@ -1,10 +1,10 @@
 <p align="center">
   <strong>
-    Hey, I'm Shivam Shukla 👋 <br>
-    ML Engineer | Full-Stack Explorer | Energy Enthusiast ⚡️
+    <span style="font-size:2em;">
+      Hey, I'm Shivam Shukla 👋 <br>
+    </span>
   </strong>
 </p>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/shivam-shukla-a462b3223/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
