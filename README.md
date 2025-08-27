@@ -1,7 +1,6 @@
 
 <p align="center">
   <h1 align="center">Hey, I'm <strong>Shivam Shukla</strong> 👋</h1>
-  <p align="center">Final-year Integrated M.Tech — Data Science • ML enthusiast • Backend & DSA lover</p>
 </p>
 
 <p align="center">
