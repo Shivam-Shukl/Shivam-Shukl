@@ -1,6 +1,6 @@
 
 <p align="center">
-  <h1 align="center">Hey, I'm <strong>Shivam Shukla</strong> 👋</h1>
+  <h1 align="center">Hey, I'm <strong>Shivam Shukla</strong> </h1>
 </p>
 
 <p align="center">
