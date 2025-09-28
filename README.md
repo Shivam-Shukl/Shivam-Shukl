@@ -23,7 +23,7 @@
 - Focus: **Machine Learning** and **Algorithms / DSA (C++)**.  
 ---
 ###  What I’m looking for
-- Internships: **Data Science / ML (remote or on-site).  
+- Internships: **Data Science / ML (remote or on-site)**.  
 - Short-term collaborations on ML/DS projects or open-source contributions.
 ---
 
