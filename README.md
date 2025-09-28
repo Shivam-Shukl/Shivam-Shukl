@@ -19,15 +19,15 @@
 
 ###  About Me
 
-- Final-year Integrated M.Tech (Data Science).  
-- Focus: **Machine Learning**, **Backend (Flask)**, and **Algorithms / DSA (C++)**.  
+- Final-year Integrated M.Tech (Computation and Data Science).  
+- Focus: **Machine Learning** and **Algorithms / DSA (C++)**.  
 ---
 ###  What I’m looking for
-- Internships: **Data Science / ML / Backend** roles (remote or on-site).  
+- Internships: **Data Science / ML (remote or on-site).  
 - Short-term collaborations on ML/DS projects or open-source contributions.
 ---
 
-##  Data Science Skills
+##  Data Science and ML Skills 
 
 #### 📥 Data Loading & Cleaning
 <p>
