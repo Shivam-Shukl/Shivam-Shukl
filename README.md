@@ -107,7 +107,7 @@
 </a> -->
 
 ---
-
+<!--
 ### 📈 My GitHub Stats
 
 <p align="center">
@@ -118,7 +118,7 @@
 <p align="center">
       <img src="https://streak-stats.demolab.com?user=Shivam-Shukl&theme=buefy&hide_border=true" alt="Shivam's streak stats"/>
 </p>
-
+-->
 ---
 
 
