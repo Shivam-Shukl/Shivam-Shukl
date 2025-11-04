@@ -89,7 +89,7 @@
 <img alt="C++" src="https://img.shields.io/badge/C++-10%2F10-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
 <img alt="Java" src="https://img.shields.io/badge/Java-7%2F10-007396?style=flat-square&logo=java&logoColor=white"/>
 <img alt="Scala" src="https://img.shields.io/badge/Scala-6%2F10-DC322F?style=flat-square&logo=scala&logoColor=white"/>
--->
+
 # 💼 Technical Skills
 
 ## 🤖 Machine Learning & Deep Learning
