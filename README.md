@@ -323,7 +323,7 @@
 <p align="center">
   <b>Let’s build something awesome together!</b>
   <br/>
-  <a href="https://github.com/Shivam-Shukl/Shivam-Shukla/issues">Open to collaboration & questions</a>
+  <a href="https://github.com/Shivam-Shukl/Shivam-Shukl/issues">Open to collaboration & questions</a>
 </p>
 
 
