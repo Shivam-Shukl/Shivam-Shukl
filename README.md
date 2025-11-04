@@ -104,10 +104,10 @@
 </a> -->
 <!-- <a href="https://github.com/Shivam-Shukl/Real-Estate-Price-Prediction---Bengaluru">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shivam-Shukl&repo=Real-Estate-Price-Prediction---Bengaluru&theme=buefy" />
-</a> -->
+</a> 
 
 ---
-<!--
+
 ### 📈 My GitHub Stats
 
 <p align="center">
@@ -118,10 +118,10 @@
 <p align="center">
       <img src="https://streak-stats.demolab.com?user=Shivam-Shukl&theme=buefy&hide_border=true" alt="Shivam's streak stats"/>
 </p>
--->
+
 ---
 
-
+-->
 
 <p align="center">
   <b>Let’s build something awesome together!</b>
