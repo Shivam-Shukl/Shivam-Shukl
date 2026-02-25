@@ -28,6 +28,27 @@
 ---
 
 
+### 📈 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shivam-Shukl&show_icons=true&theme=buefy&hide_border=true" alt="Shivam's github stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam-Shukl&layout=compact&theme=buefy&hide_border=true"/>
+</p>
+
+<p align="center">
+      <img src="https://streak-stats.demolab.com?user=Shivam-Shukl&theme=buefy&hide_border=true" alt="Shivam's streak stats"/>
+</p>
+
+---
+
+
+<p align="center">
+  <b>Let’s build something awesome together!</b>
+  <br/>
+  <a href="https://github.com/Shivam-Shukl/Shivam-Shukl/issues">Open to collaboration & questions</a>
+</p>
+
+
 <!--
 #### 📥 Data Loading & Cleaning
 <p>
@@ -294,7 +315,7 @@
 
 
 
-<!-- ### 🚩 Featured Projects
+
 
 <!-- <a href="https://github.com/Shivam-Shukl/200-Days-ML-Theory-Full-Stack-ML-Development-Challenge">
 <!--   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shivam-Shukl&repo=200-Days-ML-Theory-Full-Stack-ML-Development-Challenge&theme=buefy" />
@@ -305,26 +326,6 @@
 
 ---
 
-### 📈 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shivam-Shukl&show_icons=true&theme=buefy&hide_border=true" alt="Shivam's github stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam-Shukl&layout=compact&theme=buefy&hide_border=true"/>
-</p>
-
-<p align="center">
-      <img src="https://streak-stats.demolab.com?user=Shivam-Shukl&theme=buefy&hide_border=true" alt="Shivam's streak stats"/>
-</p>
-
----
-
--->
-
-<p align="center">
-  <b>Let’s build something awesome together!</b>
-  <br/>
-  <a href="https://github.com/Shivam-Shukl/Shivam-Shukl/issues">Open to collaboration & questions</a>
-</p>
 
 
 
