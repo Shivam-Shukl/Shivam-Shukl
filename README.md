@@ -18,8 +18,6 @@
 ---
 
 ###  About Me
-
-- Integrated M.Tech (Computation and Data Science).  
 - Focus: **Machine Learning** and **Algorithms / DSA (C++)**.  
 ---
 ###  What I’m looking for
